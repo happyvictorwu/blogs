@@ -1,8 +1,10 @@
 # blogs
 
-见 Issues
+All in Issues
 
 [地址](https://github.com/happy-yuxuan/blogs/issues)
+
+[LeetCode解题报告](LeetCode/README.md)
 
 ## LeetCode周赛系列
 
